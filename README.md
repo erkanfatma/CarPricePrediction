@@ -50,3 +50,14 @@ Decision tree model of the algorithm is shown in the figure below. The graph of 
 
 ![alt text](https://github.com/erkanfatma/CarPricePrediction/blob/main/img/Picture5.png)
 
+
+## References
+
+1.	https://benalexkeen.com/decision-tree-classifier-in-python-using-scikit-learn/#:~:text=Decision%20Trees%20can%20be%20used,eventually%20resulting%20in%20a%20prediction
+2.	http://www.temjournal.com/content/81/TEMJournalFebruary2019_113_118.pdf
+3.	http://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26612934.pdf
+4.	https://www.kaggle.com/cagkanbay/car-price-prediction
+5.	https://www.javatpoint.com/machine-learning-decision-tree-classification-algorithm
+6.	https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052
+7.	https://en.wikipedia.org/wiki/Decision_tree
+
