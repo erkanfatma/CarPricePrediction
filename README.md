@@ -28,3 +28,6 @@ Gini impurity is the measurement of possibility of incorrect classification of t
 
 Decision trees were implemented in python to predict car prices. Decision trees can be used both classification and regression. It can catch the non-linear relationship between attributes and the target value. It also does not require rescaling of features.
 
+![alt text](https://github.com/erkanfatma/CarPricePrediction/blob/main/img/Picture1.png)
+
+
